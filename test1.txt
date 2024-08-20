@@ -1,0 +1,19 @@
+
+> rsapp-task-template@1.0.0 test
+> mocha test
+
+
+
+  .towelSort, should perfrom 'towelSort'
+    ✔ Should return empty array if no params passed
+    ✔ Should return empty array if matrix is empty
+    ✔ should do towelSort
+    ✔ should do towelSort
+    ✔ should do towelSort
+    ✔ should do towelSort correctrly with nonsquare matrix
+    ✔ should do towelSort
+    ✔ should do towelSort
+
+
+  8 passing (5ms)
+
